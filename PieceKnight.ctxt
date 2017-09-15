@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int[][]\ move()
+comment1.params=
+comment1.target=boolean\ isUpgradable()
+comment2.params=
+comment2.target=ChessType\ setType()
+numComments=3
