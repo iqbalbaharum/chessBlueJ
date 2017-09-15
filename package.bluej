@@ -14,6 +14,7 @@ dependency4.type=UsesDependency
 dependency5.from=PiecePawn
 dependency5.to=ChessType
 dependency5.type=UsesDependency
+<<<<<<< HEAD
 objectbench.height=76
 objectbench.width=1888
 package.editor.height=883
@@ -21,21 +22,43 @@ package.editor.width=1790
 package.editor.x=10
 package.editor.y=8
 package.numDependencies=5
+=======
+dependency6.from=PieceKnight
+dependency6.to=ChessType
+dependency6.type=UsesDependency
+objectbench.height=76
+objectbench.width=1281
+package.editor.height=577
+package.editor.width=1155
+package.editor.x=75
+package.editor.y=80
+package.numDependencies=6
+>>>>>>> f6ec29a0ee5f105e5ca38edf2c8ccfc93c816201
 package.numTargets=6
 package.showExtends=true
 package.showUses=true
 project.charset=UTF-8
+<<<<<<< HEAD
 target1.editor.height=700
 target1.editor.width=900
 target1.editor.x=638
 target1.editor.y=83
 target1.height=50
 target1.name=PieceKnight
+=======
+target1.editor.height=672
+target1.editor.width=671
+target1.editor.x=67
+target1.editor.y=54
+target1.height=50
+target1.name=PiecePawn
+>>>>>>> f6ec29a0ee5f105e5ca38edf2c8ccfc93c816201
 target1.naviview.expanded=true
 target1.showInterface=false
 target1.type=ClassTarget
 target1.typeParameters=
 target1.width=90
+<<<<<<< HEAD
 target1.x=150
 target1.y=190
 target2.editor.height=700
@@ -55,6 +78,27 @@ target3.editor.height=700
 target3.editor.width=900
 target3.editor.x=473
 target3.editor.y=109
+=======
+target1.x=210
+target1.y=370
+target2.editor.height=700
+target2.editor.width=646
+target2.editor.x=75
+target2.editor.y=68
+target2.height=50
+target2.name=Piece
+target2.naviview.expanded=true
+target2.showInterface=false
+target2.type=InterfaceTarget
+target2.typeParameters=
+target2.width=80
+target2.x=10
+target2.y=120
+target3.editor.height=744
+target3.editor.width=1301
+target3.editor.x=65
+target3.editor.y=24
+>>>>>>> f6ec29a0ee5f105e5ca38edf2c8ccfc93c816201
 target3.height=50
 target3.name=Game
 target3.naviview.expanded=true
@@ -62,6 +106,7 @@ target3.showInterface=false
 target3.type=ClassTarget
 target3.typeParameters=
 target3.width=80
+<<<<<<< HEAD
 target3.x=410
 target3.y=290
 target4.editor.height=700
@@ -81,12 +126,34 @@ target5.editor.height=700
 target5.editor.width=900
 target5.editor.x=50
 target5.editor.y=28
+=======
+target3.x=1010
+target3.y=500
+target4.editor.height=616
+target4.editor.width=900
+target4.editor.x=354
+target4.editor.y=80
+target4.height=50
+target4.name=Board
+target4.naviview.expanded=true
+target4.showInterface=false
+target4.type=ClassTarget
+target4.typeParameters=
+target4.width=80
+target4.x=870
+target4.y=80
+target5.editor.height=700
+target5.editor.width=900
+target5.editor.x=215
+target5.editor.y=80
+>>>>>>> f6ec29a0ee5f105e5ca38edf2c8ccfc93c816201
 target5.height=50
 target5.name=ChessType
 target5.naviview.expanded=true
 target5.showInterface=false
 target5.type=EnumTarget
 target5.typeParameters=
+<<<<<<< HEAD
 target5.width=90
 target5.x=260
 target5.y=10
@@ -96,10 +163,27 @@ target6.editor.x=653
 target6.editor.y=172
 target6.height=50
 target6.name=PiecePawn
+=======
+target5.width=100
+target5.x=70
+target5.y=290
+target6.editor.height=700
+target6.editor.width=760
+target6.editor.x=588
+target6.editor.y=39
+target6.height=50
+target6.name=PieceKnight
+>>>>>>> f6ec29a0ee5f105e5ca38edf2c8ccfc93c816201
 target6.naviview.expanded=true
 target6.showInterface=false
 target6.type=ClassTarget
 target6.typeParameters=
+<<<<<<< HEAD
 target6.width=90
 target6.x=40
 target6.y=240
+=======
+target6.width=110
+target6.x=200
+target6.y=190
+>>>>>>> f6ec29a0ee5f105e5ca38edf2c8ccfc93c816201
