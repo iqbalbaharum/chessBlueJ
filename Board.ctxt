@@ -1,9 +1,7 @@
 #BlueJ class context
-comment0.params=
-comment0.target=int[][]\ generator()
-<<<<<<< HEAD
-comment0.text=\r\n\ Generate\ default\ board\r\n
-=======
-comment0.text=\n\ Generate\ default\ board\n
->>>>>>> f6ec29a0ee5f105e5ca38edf2c8ccfc93c816201
-numComments=1
+comment0.target=Board
+comment0.text=\n\ Write\ a\ description\ of\ class\ Board\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=int[][]\ generator()
+comment1.text=\n\ Generate\ default\ board\n
+numComments=2

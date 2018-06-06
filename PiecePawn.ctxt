@@ -1,19 +1,12 @@
 #BlueJ class context
-comment0.params=
-<<<<<<< HEAD
-comment0.target=int[][]\ move()
+comment0.target=PiecePawn
+comment0.text=\n\ Write\ a\ description\ of\ class\ PiecePawn\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
 comment1.params=
-comment1.target=boolean\ isUpgradable()
+comment1.target=MovementType\ movement()
 comment2.params=
-comment2.target=ChessType\ setType()
-numComments=3
-=======
-comment0.target=MovementType\ movement()
-comment1.params=
-comment1.target=boolean\ isOneDirection()
-comment2.params=
-comment2.target=boolean\ isUpgradable()
+comment2.target=boolean\ isOneDirection()
 comment3.params=
-comment3.target=ChessType\ setType()
-numComments=4
->>>>>>> f6ec29a0ee5f105e5ca38edf2c8ccfc93c816201
+comment3.target=boolean\ isUpgradable()
+comment4.params=
+comment4.target=ChessType\ getType()
+numComments=5

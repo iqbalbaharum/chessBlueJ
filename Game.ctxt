@@ -1,26 +1,17 @@
 #BlueJ class context
-comment0.params=
-comment0.target=Game()
-<<<<<<< HEAD
-comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Game\r\n
-=======
-comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Game\n
->>>>>>> f6ec29a0ee5f105e5ca38edf2c8ccfc93c816201
+comment0.target=Game
+comment0.text=\n\ Write\ a\ description\ of\ class\ Game\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
 comment1.params=
-comment1.target=void\ newGame()
+comment1.target=Game()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Game\n
 comment2.params=
-comment2.target=void\ whiteStartPosition()
-<<<<<<< HEAD
-comment2.text=\r\n\ initialise\ white\ pieces\ position\r\n
+comment2.target=void\ newGame()
 comment3.params=
-comment3.target=void\ blackStartPosition()
-comment3.text=\r\n\ initialise\ black\ pieces\ position\r\n
-=======
-comment2.text=\n\ initialise\ white\ pieces\ position\n
-comment3.params=
-comment3.target=void\ blackStartPosition()
-comment3.text=\n\ initialise\ black\ pieces\ position\n
->>>>>>> f6ec29a0ee5f105e5ca38edf2c8ccfc93c816201
-comment4.params=currentPos\ newPos
-comment4.target=boolean\ turn(int[][],\ int[][])
-numComments=5
+comment3.target=void\ whiteStartPosition()
+comment3.text=\n\ initialise\ white\ pieces\ position\n
+comment4.params=
+comment4.target=void\ blackStartPosition()
+comment4.text=\n\ initialise\ black\ pieces\ position\n
+comment5.params=currentPos\ newPos
+comment5.target=boolean\ turn(int[][],\ int[][])
+numComments=6
